@@ -33,7 +33,7 @@ body * {
 }
 
 body {
-  background: #121214 var(--bg) no-repeat top center/cover;
+  background: #121214 url(./Assets/bg-overlay.png) no-repeat top center/cover;
 }
 
 header {
